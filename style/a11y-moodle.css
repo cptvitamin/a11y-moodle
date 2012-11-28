@@ -1,0 +1,21 @@
+/**
+ * Moodle UX Improvements
+ *
+ * @copyright       Copyright 2012, Mark Sadecki
+ * @license         CC-BY 2.0 (http://creativecommons.org/licenses/by/2.0/)
+ * @link            http://www.sadecki.com
+ */
+
+@media all {
+
+	/**
+	* Navigation enhancements
+	*/
+
+	.navstate { 
+		font-style: italic;    /* only necessary if making visible */
+		font-size: 70%;        /* only necessary if making visible */
+		position:absolute;
+		top:-32768px;
+		left:-32768px;
+}
